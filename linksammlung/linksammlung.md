@@ -8,7 +8,9 @@
   
 * __Java EE Tutorial__:
   
-  https://javaee.github.io/tutorial/
+  https://jakarta.ee/learn/docs/jakartaee-tutorial/current/index.html
+
+  https://github.com/eclipse-ee4j/glassfish-samples/tree/master/ws/jakartaee9
 
 * __Java Spezifikationen - Java Community Process__:
   
